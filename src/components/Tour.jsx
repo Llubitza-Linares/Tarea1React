@@ -18,7 +18,7 @@ const Tour =({image,date,title,info,location,duration,cost}) =>
               </span> {location}
             </p>
             <p>{duration} creditos</p>
-            <p>desde {cost} bs</p>
+            <p>desde {cost} BS</p>
           </div>
         </div>
       </article>
